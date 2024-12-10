@@ -19,3 +19,6 @@ To analyze Ola ride data to gain actionable insights into ride patterns, booking
 
 ## Dashboard Interaction:
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNzYwZWIxMzktZjNhMC00YmU4LTg2YWItNDFlMjcwM2E3MGVkIiwidCI6IjA1MmM5MTliLWFmN2YtNDVkOS1iZDE0LWI1Y2I1ZTM5NjhkMyJ9">Dashboard </a>
+
+## Dashboard Image:
+![Screenshot (584)](https://github.com/user-attachments/assets/5a91a52d-48e8-4c51-b169-1e6910fc243b)
