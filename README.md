@@ -16,3 +16,6 @@ To analyze Ola ride data to gain actionable insights into ride patterns, booking
 8. Ride Distance Distribution Per Day
 9. Driver Ratings Distribution
 10. Customer vs. Driver Ratings
+
+## Dashboard Interaction:
+<a href="https://github.com/omsingh2020/OLA-Data-Analysis-Dashboard/blob/main/Bookings.csv](https://app.powerbi.com/view?r=eyJrIjoiNzYwZWIxMzktZjNhMC00YmU4LTg2YWItNDFlMjcwM2E3MGVkIiwidCI6IjA1MmM5MTliLWFmN2YtNDVkOS1iZDE0LWI1Y2I1ZTM5NjhkMyJ9 )">Dashboard </a>
