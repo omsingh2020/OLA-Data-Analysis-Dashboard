@@ -19,6 +19,22 @@ To analyze Ola ride data to gain actionable insights into ride patterns, booking
 
 ## Dashboard Interaction:
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNzYwZWIxMzktZjNhMC00YmU4LTg2YWItNDFlMjcwM2E3MGVkIiwidCI6IjA1MmM5MTliLWFmN2YtNDVkOS1iZDE0LWI1Y2I1ZTM5NjhkMyJ9">Dashboard </a>
-
+### Segregation of the views:
+1. Overall
+- Ride Volume Over Time
+- Booking Status Breakdown
+2. Vehicle Type
+- Top 5 Vehicle Types by Ride Distance
+3. Revenue
+- Revenue by Payment Method
+- Top 5 Customers by Total Booking Value
+- Ride Distance Distribution Per Day
+4. Cancellation
+- Cancelled Rides Reasons (Customer)
+- cancelled Rides Reasons(Drivers)
+5. Ratings
+- Driver Ratings
+- Customer Ratings
+- 
 ## Dashboard Image:
 ![Screenshot (584)](https://github.com/user-attachments/assets/5a91a52d-48e8-4c51-b169-1e6910fc243b)
